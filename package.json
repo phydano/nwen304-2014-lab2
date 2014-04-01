@@ -2,7 +2,7 @@
   "name": "node-example",
   "version": "0.0.0",
   "description": "Example app.",
-  "main": "web.js",
+  "main": "quote.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
